@@ -7,7 +7,7 @@ body{
     height:100%;
 }
 #encabezado{
-    background-image:url(https://github.com/albusiness98/resident-evil/resident.jpg);
+    background-image:url(./resident.jpg);
     background-size: 100% 100%;
     background-repeat: no-repeat;
     display:table;
